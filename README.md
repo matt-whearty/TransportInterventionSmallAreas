@@ -1,5 +1,5 @@
 # Project background
-Most of the analysis for this project was conducted in QGIS and Microsoft Excel, rather than R which is my usual preference.
+Most of the analysis for this project was conducted in QGIS and Microsoft Excel, rather than using R which is my usual preference.
 However, this should not affect reproducibility. This repository will likely be updated over time to ensure that links are still valid, both to online data sources (below) and within the repository itself.
 
 # Data sources
