@@ -18,5 +18,5 @@ However, for ease of access, these sources are:
   - https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019
   - https://www.gov.uk/government/statistics/english-indices-of-deprivation-2015
   - https://www.gov.uk/government/statistics/english-indices-of-deprivation-2010
-  - [https://webarchive.nationalarchives.gov.uk/ukgwa/20100411141238/http://www.communities.gov.uk/communities/neighbourhoodrenewal/deprivation/deprivation07/] (archived)
+  - https://webarchive.nationalarchives.gov.uk/ukgwa/20100411141238/http://www.communities.gov.uk/communities/neighbourhoodrenewal/deprivation/deprivation07/ (archived)
   - https://webarchive.nationalarchives.gov.uk/ukgwa/20100410180038/http://www.communities.gov.uk/archived/general-content/communities/indicesofdeprivation/216309/ (archived)
